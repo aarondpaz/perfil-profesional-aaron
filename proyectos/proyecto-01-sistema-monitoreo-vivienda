@@ -21,7 +21,33 @@ Las viviendas tradicionales no siempre cuentan con sistemas integrados de monito
 ## Estado del proyecto
 
 🟡 En planificación.
+## Funcionamiento
 
+1. El sensor PIR detecta movimiento.
+
+2. El sistema verifica el estado de la puerta principal.
+
+3. La cámara registra la actividad detectada.
+
+4. El sistema genera una alerta.
+
+5. El usuario puede consultar el estado del sistema.
+
+## Mejoras futuras
+
+- Agregar notificaciones a un teléfono móvil.
+
+- Implementar reconocimiento facial.
+
+- Integrar una aplicación web.
+
+- Registrar eventos en una base de datos.
+
+- Agregar monitoreo en tiempo real mediante una aplicación móvil o un panel web.
+## Arquitectura del sistema
+## Arquitectura del sistema
+
+[Sensor PIR] → [ESP32 / Arduino] → [Cámara IP] → [Sistema de alerta] → [Usuario]
 ## Autor
 
 Aarón David Paz Canales
