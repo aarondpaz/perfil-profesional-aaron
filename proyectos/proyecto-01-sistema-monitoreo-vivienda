@@ -1,0 +1,27 @@
+README.md
+# Proyecto 01 - Sistema Inteligente de Monitoreo para una Vivienda
+
+## Objetivo
+
+Diseñar un sistema inteligente de monitoreo para una vivienda utilizando sensores y cámaras de seguridad, integrando conceptos de automatización e Internet de las Cosas (IoT).
+
+## Problema
+
+Las viviendas tradicionales no siempre cuentan con sistemas integrados de monitoreo y alertas inteligentes.
+
+## Tecnologías
+
+- ESP32 o Arduino
+- C++
+- Sensores PIR
+- Cámaras IP
+- Arduino IDE
+- Tinkercad
+
+## Estado del proyecto
+
+🟡 En planificación.
+
+## Autor
+
+Aarón David Paz Canales
